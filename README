@@ -1,0 +1,1 @@
+Usage: java -jar photogen-1.0.jar [size x] [size y] [seed(optional)]
